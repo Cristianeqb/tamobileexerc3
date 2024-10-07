@@ -70,3 +70,4 @@ Para executar os testes, siga os passos abaixo:
 Este projeto oferece um ambiente para os estudantes praticarem esses exercícios e aprimorarem suas habilidades em testes unitários utilizando TypeScript e Jest.
 
 Divirta-se praticando! 🚀
+"# tamobileexerc3" 
